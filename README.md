@@ -1,6 +1,9 @@
 # WomanWhoCodes
 Spark AR Application to inspire women who code by making them feel magical
 
+Facebook Developers Circle Hackathon - Downtown Los Angeles
+https://devpost.com/software/womanwhocodes/
+
 ![alt text](https://media1.giphy.com/media/bWSNwD6ClwQM0/giphy.gif?cid=790b76119be6d7b30734b13de3b28382de3a769b17386fc2&rid=giphy.gif "Sailor Moon!")
 
 ## Inspiration
