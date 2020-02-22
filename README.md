@@ -12,7 +12,6 @@ Spark AR Application to inspire women who code by making them feel magical
 * Filter that randomly selects a coding superpower related to a language
 * Gives user a Tiara!
 
-## How I built i
 ## Challenges I ran into
 This was the first time we have used Spark AR Studio. Much of our morning was spent familiarizing ourselves with the interface and the logic required to build animations and layers.
 ## Accomplishments that I'm proud of
